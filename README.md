@@ -7,7 +7,7 @@ Repositorio para el curso de introducción a robótica y programación de ACAE
 ## Sesión 1 - 17 Julio 2021
 1. Introducción a la programación
 2. Introducción a la electrónica
-- [Presentación Sesión 1](https://drive.google.com/file/d/1OA9Iapm3cTwBimWNeF9anFEcZ51SVety/view?usp=sharing]
+- [Presentación Sesión 1](https://drive.google.com/file/d/1OA9Iapm3cTwBimWNeF9anFEcZ51SVety/view?usp=sharing)
 
 ## Sesión 2 - 24 Julio 2021
 3. Conceptos de exploración espacial
