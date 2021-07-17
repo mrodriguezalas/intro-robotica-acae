@@ -4,6 +4,10 @@ Repositorio para el curso de introducción a robótica y programación de ACAE
 
 [Descripción del curso](https://docs.google.com/document/d/1y6NINpR8SbnSss8wS0aE-kDMueqAbnVTzi0Ij-4Y9w4/edit?usp=sharing)
 
+## Herramientas usadas durante el curso
+- [Scratch](https://scratch.mit.edu/)
+- [Tinkercad](https://www.tinkercad.com/)
+
 ## Sesión 1 - 17 Julio 2021
 1. Introducción a la programación
 2. Introducción a la electrónica
